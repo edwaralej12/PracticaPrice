@@ -1,9 +1,9 @@
 import React from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
-import Main from '../components/main';
-import Content from '../components/Content';
-import Prices from '../components/Prices';
+import Main from '../components/Main';
+//import Content from '../components/Content';
+//import Prices from '../components/Prices';
 
 //JSX >> Se combina codigo js con html
 //Hay componentes que se comportan como contenedores o como contenidos
@@ -36,8 +36,6 @@ const App = () => {//deja de ser un componente stateful no contiene {}
     <>
       <Header />
       <Main />
-      <Content />
-      <Prices />
       <Footer />
     </>
   );
