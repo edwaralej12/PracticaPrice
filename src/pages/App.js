@@ -41,6 +41,7 @@ const App = () => {//deja de ser un componente stateful no contiene {}
   );
 
 }
+
        
 // export default App1;
 // export default App2;

@@ -1,0 +1,74 @@
+*{
+  padding:0;
+  margin: 0;
+}
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.pricing-header {
+  max-width: 700px;
+}
+
+.container {
+  max-width: 960px;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.card-deck .card {
+  min-width: 220px;
+}
+
+
+
+footer {
+  max-width: 960px;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+.pt-4, .py-4 {
+  padding-top: 1.5rem!important;
+}
+.border-top {
+  border-top: 1px solid #dee2e6!important;
+  max-width: 960px;
+  width: 100%;
+
+}
+
+@media (min-width: 768px){
+  .pt-md-5, .py-md-5 {
+    padding-top: 3rem!important;
+  }
+}
+@media (min-width: 768px){
+  .mb-md-5, .my-md-5 {
+    margin-bottom: 3rem!important;
+  }
+}
+@media (min-width: 768px){
+  .mt-md-5, .my-md-5 {
+    margin-top: 3rem!important;
+  }
+}
