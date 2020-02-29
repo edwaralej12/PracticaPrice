@@ -42,17 +42,17 @@ html {
 
 
 footer {
-  max-width: 960px;
+   /* max-width: 960px; */
   width: 100%;
   margin-right: auto;
   margin-left: auto;
 }
 .pt-4, .py-4 {
-  padding-top: 1.5rem!important;
+  padding-top: 1.5rem !important;
 }
 .border-top {
   border-top: 1px solid #dee2e6!important;
-  max-width: 960px;
+ /* max-width: 960px; */
   width: 100%;
 
 }
